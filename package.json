@@ -1,7 +1,7 @@
 {
-   "name": "@itsliaaa/baileys",
-   "version": "0.3.18-final",
-   "description": "Enhanced Baileys v7 with fixes for newsletter media uploads, plus support for interactive messages, albums, and additional message types.",
+   "name": "@ryuu-mikuryu/mikuryu-v6",
+   "version": "1.0.0",
+   "description": "Mikuryu v6 — Custom WhatsApp Web API with full interactive button support (based on enhanced Baileys v7 fork).",
    "main": "lib/index.js",
    "types": "lib/index.d.ts",
    "type": "module",
@@ -13,7 +13,7 @@
    },
    "repository": {
       "type": "git",
-      "url": "git+https://github.com/itsliaaa/baileys.git"
+      "url": "git+https://github.com/jafrisebat20-sketch/mikuryu-v6.git"
    },
    "files": [
       "lib/**/*",
@@ -26,14 +26,15 @@
       "bot",
       "interactive-messages",
       "js-whatsapp",
+      "mikuryu",
       "multi-device",
       "whatsapp",
       "whatsapp-api",
       "whatsapp-bot",
       "whatsapp-web"
    ],
-   "homepage": "https://github.com/itsliaaa/baileys#readme",
-   "author": "Lia Wynn",
+   "homepage": "https://github.com/jafrisebat20-sketch/mikuryu-v6#readme",
+   "author": "Ryuu",
    "license": "MIT",
    "dependencies": {
       "@adiwajshing/keyed-db": "^0.2.4",
